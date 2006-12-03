@@ -1,0 +1,20 @@
+<Bindings>
+	<Binding name="VISOR_TOCURSOR" header="VISOR">
+		Visor2:Do("c=TRUE")
+	</Binding>
+	<Binding name="VISOR_NUDGEUP">
+		Visor2Nudge:Up()
+	</Binding>
+	<Binding name="VISOR_NUDGEDOWN">
+		Visor2Nudge:Down()
+	</Binding>
+	<Binding name="VISOR_NUDGELEFT">
+		Visor2Nudge:Left()
+	</Binding>
+	<Binding name="VISOR_NUDGERIGHT">
+		Visor2Nudge:Right()
+	</Binding>
+	<Binding name="Visor Framefinder">
+		Visor2:SetupFrame("gf=TRUE")
+	</Binding>
+</Bindings>

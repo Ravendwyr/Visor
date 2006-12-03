@@ -1,0 +1,9 @@
++------------------------- The Visor Team -------------------------+
+| Developers: Tain, Rowne, Eraphine, Stylpe.                       |
+| Tireless Testers: Eraphine, Sariash, kergoth, illitrate, Neriak. |
++------------------------------------------------------------------+
+
++-------------------- Visor2 (Ace2) Conversion --------------------+
+| Developers: Skycatcher.                                          |
+| Tireless Testers: N/A as of yet.                                 |
++------------------------------------------------------------------+
