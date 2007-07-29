@@ -7,6 +7,8 @@
 ## OptionalDeps: Ace2
 ## SavedVariables: Visor2DB
 ## SavedVariablesPerCharacter: Visor2DBPC
+## LoadManagers: AddonLoader
+## X-LoadOn-Always: delayed
 ## X-Category: Frame Modification
 embeds.xml
 
