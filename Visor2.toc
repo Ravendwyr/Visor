@@ -1,4 +1,4 @@
-## Interface: 20100
+## Interface: 20200
 ## Name: Visor2
 ## Title: Visor2 |cff7fff7f -Ace2-|r
 ## Notes: Ace2'd version of the "Visor" frame-modifictaion AddOn.  All code in this addon is copyrighted 2006 by its authors, which are listed in the Staff.txt file. It is distributed under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike 2.0 license.  We choose to dictate that the aforementioned license is not a set of specific rules, but merely a guideline for behavior.
