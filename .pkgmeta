@@ -1,0 +1,12 @@
+package-as: Visor2
+
+externals:
+    /Libs/AceDebug-2.0: http://svn.wowace.com/wowace/trunk/Ace2/AceDebug-2.0/
+    /Libs/AceAddon-2.0: http://svn.wowace.com/wowace/trunk/Ace2/AceAddon-2.0/
+    /Libs/AceOO-2.0: http://svn.wowace.com/wowace/trunk/Ace2/AceOO-2.0/
+    /Libs/AceLocale-2.2: http://svn.wowace.com/wowace/trunk/Ace2/AceLocale-2.2/
+    /Libs/AceLibrary: http://svn.wowace.com/wowace/trunk/Ace2/AceLibrary/
+    /Libs/AceModuleCore-2.0: http://svn.wowace.com/wowace/trunk/Ace2/AceModuleCore-2.0/
+    /Libs/AceEvent-2.0: http://svn.wowace.com/wowace/trunk/Ace2/AceEvent-2.0/
+    /Libs/AceDB-2.0: http://svn.wowace.com/wowace/trunk/Ace2/AceDB-2.0/
+    /Libs/AceConsole-2.0: http://svn.wowace.com/wowace/trunk/Ace2/AceConsole-2.0/
